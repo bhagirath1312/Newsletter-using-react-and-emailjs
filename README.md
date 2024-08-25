@@ -14,7 +14,7 @@ This project is a simple React application that allows users to subscribe to a n
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/bhagirath1312/Newsletter-using-react-and-emailjs.git
-   cd react-newsletter-emailjs
+   cd react-newsletter-emailjs/Newsletter
 
 2. **Install dependencies**:
    ```bash
